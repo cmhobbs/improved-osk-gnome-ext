@@ -1,7 +1,8 @@
 /* Removes keyboard background transparency */
-#keyboard {
+/* #keyboard {
       background-color: #000000;
 }
+*/
 
 /* Changes modifier keys bg-color when latched */
 .control-key-latched #keyboard .keyboard-key.default-key.control-key,
